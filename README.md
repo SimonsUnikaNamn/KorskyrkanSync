@@ -3,8 +3,11 @@
 ## requirements
 Python 2.7
 
+# For linux
 [mdbtools](https://github.com/mdbtools/mdbtools)
 
+# For windows
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=13255
 
 ## How it works
 
