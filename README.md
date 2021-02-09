@@ -1,13 +1,15 @@
 # Sync korskyrkan register with contacts
 
 ## requirements
-Python 2.7
+Python 2.7 or greater (only tested in python 3)
 
 # For linux
 [mdbtools](https://github.com/mdbtools/mdbtools)
 
 # For windows
 https://www.microsoft.com/en-us/download/confirmation.aspx?id=13255
+and also run
+`pip install pyodbc`
 
 ## How it works
 
